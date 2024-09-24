@@ -2,6 +2,11 @@
 
 Project to learn about using SQL in Python
 
+## Pull Current project version from GitHub
+
+```shell
+git pull
+```
 
 ## Create and Activate Project Virtual Environment
 
@@ -17,7 +22,7 @@ py -m pip install -r "requirements.txt"
 py -m pip freeze > requirements.txt
 ```
 
-## Git Add / Commit / Push 
+## Git Add / Commit / Push
 
 ```shell
 git add .
@@ -28,13 +33,12 @@ git push -u origin main
 ## How to install system requrements
 
 ```shell
-py -m pip install jupyterlab numpy pandas matplotlib seaborn scipy
+python -m pip install pandas pyarrow 
 ```
 
 ## How to start Jupyter notebook
 
-### Navagate to project folder, then run:
-
+### Navagate to project folder, then run
 
 ```shell
 jupyter lab
