@@ -1,0 +1,12 @@
+INSERT INTO Rentals (RentalID, CustomerName, VehicleID, RentalDate, ReturnDate)
+VALUES
+(1, 'John Doe', 1, '2024-09-10', '2024-09-15'),
+(2, 'Jane Smith', 5, '2024-09-12', '2024-09-14'),
+(3, 'Michael Johnson', 3, '2024-09-05', '2024-09-08'),
+(4, 'Emily Davis', 7, '2024-09-03', '2024-09-06'),
+(5, 'Robert Brown', 4, '2024-09-07', '2024-09-10'),
+(6, 'Linda Green', 6, '2024-09-09', '2024-09-13'),
+(7, 'David White', 9, '2024-09-14', '2024-09-18'),
+(8, 'Patricia Black', 2, '2024-09-08', '2024-09-10'),
+(9, 'Christopher Walker', 8, '2024-09-11', '2024-09-15'),
+(10, 'Karen Harris', 10, '2024-09-06', '2024-09-09');
