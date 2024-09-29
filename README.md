@@ -1,10 +1,11 @@
 # datafun-05-sql
 
-This project demonstrates basic Python SQL integration.  The same data used is rental car data
+This project demonstrates basic Python SQL integration.  Run the script titled "rental_manager.py"  This will create a sql database using rental car information.
 
 ## Database Schema
 
 Table "rentals" contains the following data:
+
 - RentalID
 - CustomerName
 - VehicleID
@@ -12,6 +13,7 @@ Table "rentals" contains the following data:
 - ReturnDate
 
 The "vehicles' table contains:
+
 - VehicleID
 - Make
 - Model
