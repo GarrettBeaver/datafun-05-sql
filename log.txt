@@ -244,3 +244,61 @@
 2024-09-28 19:10:52,088 - INFO - Executed SQL from sql\query_join.sql
 2024-09-28 19:10:52,088 - INFO - All SQL operations completed successfully
 2024-09-28 19:10:52,089 - INFO - Program ended
+2024-09-28 19:20:00,568 - INFO - Program started
+2024-09-28 19:20:00,569 - INFO - Database created successfully.
+2024-09-28 19:20:00,583 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 19:20:00,606 - INFO - Data inserted successfully.
+2024-09-28 19:20:00,610 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 19:20:00,615 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 19:20:00,617 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 19:20:00,617 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 19:20:00,618 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 19:20:00,619 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 19:20:00,619 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 19:20:00,619 - INFO - All SQL operations completed successfully
+2024-09-28 19:20:00,619 - INFO - Program ended
+2024-09-28 19:28:41,699 - INFO - Program started
+2024-09-28 19:28:41,700 - INFO - Database created successfully.
+2024-09-28 19:28:41,713 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 19:28:41,732 - INFO - Data inserted successfully.
+2024-09-28 19:28:41,736 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 19:28:41,741 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 19:28:41,742 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 19:28:41,743 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 19:28:41,743 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 19:28:41,744 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 19:28:41,744 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 19:28:41,744 - INFO - All SQL operations completed successfully
+2024-09-28 19:28:41,744 - INFO - Program ended
+2024-09-28 19:32:02,022 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 19:32:02,029 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 19:32:02,031 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 19:32:02,032 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 19:32:02,033 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 19:32:02,033 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 19:32:02,034 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 19:32:02,034 - INFO - All SQL operations completed successfully
+2024-09-28 19:32:02,034 - INFO - Program ended
+2024-09-28 19:33:17,986 - INFO - Program started
+2024-09-28 19:33:17,987 - INFO - Database created successfully.
+2024-09-28 19:33:18,000 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 19:33:18,022 - INFO - Data inserted successfully.
+2024-09-28 19:33:18,023 - INFO - Program ended
+2024-09-28 19:33:24,791 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 19:33:24,797 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 19:33:24,799 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 19:33:24,799 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 19:33:24,800 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 19:33:24,801 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 19:33:24,802 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 19:33:24,802 - INFO - All SQL operations completed successfully
+2024-09-28 19:33:24,802 - INFO - Program ended
+2024-09-28 19:33:58,012 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 19:33:58,017 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 19:33:58,019 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 19:33:58,020 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 19:33:58,021 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 19:33:58,021 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 19:33:58,022 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 19:33:58,022 - INFO - All SQL operations completed successfully
+2024-09-28 19:33:58,022 - INFO - Program ended

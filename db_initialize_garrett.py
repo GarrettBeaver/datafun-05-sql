@@ -2,7 +2,6 @@
 Module 5 - This file will demonstrate basic usage of Python SQL integration.  It will:
 - Create a database
 - Fill that database with data
-- Manipulate that data by calling sql queries sorted into distinct files
 '''
 
 #####################################
@@ -123,15 +122,7 @@ def main() -> None:
     insert_data_from_csv(db_file_path, vehicle_data_path, rental_data_path)
 
 
-    #run all sql scripts
-    execute_sql_from_file(db_file_path, Path("sql").joinpath("delete_records.sql"))
-    execute_sql_from_file(db_file_path, Path("sql").joinpath("insert_records.sql"))
-    execute_sql_from_file(db_file_path, Path("sql").joinpath("query_aggregration.sql"))
-    execute_sql_from_file(db_file_path, Path("sql").joinpath("query_filter.sql"))
-    execute_sql_from_file(db_file_path, Path("sql").joinpath("query_group_by.sql"))
-    execute_sql_from_file(db_file_path, Path("sql").joinpath("query_sorting.sql"))
-    execute_sql_from_file(db_file_path, Path("sql").joinpath("query_join.sql"))
-    logging.info("All SQL operations completed successfully")
+
     logging.info("Program ended")  
 
 
