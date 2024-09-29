@@ -1,6 +1,7 @@
--- use INNER JOIN operation and optionally include LEFT JOIN, RIGHT JOIN, etc.
-SELECT Customers.Name, Orders.OrderID, Orders.OrderDate, Orders.TotalAmount
-FROM Customers
-INNER JOIN Orders
-ON Customers.CustomerID = Orders.CustomerID
-WHERE Customers.Country = 'USA';
+SELECT Rentals.RentalID, 
+       Vehicles.Make, 
+       Vehicles.Model, 
+       Rentals.RentalDate, 
+       Rentals.ReturnDate
+FROM Rentals
+INNER JOIN Vehicles ON Rentals.VehicleID = Vehicles.VehicleID;

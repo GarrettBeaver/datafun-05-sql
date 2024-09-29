@@ -1,0 +1,246 @@
+2024-09-27 20:15:37,019 - INFO - Program started
+2024-09-27 20:15:37,019 - INFO - All SQL operations completed successfully
+2024-09-27 20:17:21,252 - INFO - Program started
+2024-09-27 20:17:21,252 - INFO - All SQL operations completed successfully
+2024-09-27 20:17:59,772 - INFO - Program started
+2024-09-27 20:17:59,772 - INFO - All SQL operations completed successfully
+2024-09-27 20:18:17,536 - INFO - Program started
+2024-09-27 20:18:17,537 - INFO - All SQL operations completed successfully
+2024-09-27 20:20:27,769 - INFO - Program started
+2024-09-27 20:20:27,770 - INFO - All SQL operations completed successfully
+2024-09-27 20:25:09,836 - INFO - Program started
+2024-09-27 20:25:09,837 - INFO - All SQL operations completed successfully
+2024-09-27 20:27:19,422 - INFO - Program started
+2024-09-27 20:27:19,422 - INFO - All SQL operations completed successfully
+2024-09-27 20:29:41,028 - INFO - Program started
+2024-09-27 20:29:41,028 - INFO - All SQL operations completed successfully
+2024-09-27 20:29:41,096 - INFO - Program ended
+2024-09-27 20:31:37,795 - INFO - Program started
+2024-09-27 20:31:37,795 - INFO - All SQL operations completed successfully
+2024-09-27 20:31:37,874 - INFO - Program ended
+2024-09-27 20:32:01,791 - INFO - Program started
+2024-09-27 20:32:01,791 - INFO - All SQL operations completed successfully
+2024-09-27 20:32:01,842 - INFO - Program ended
+2024-09-28 08:26:27,624 - INFO - Program started
+2024-09-28 08:26:27,624 - INFO - All SQL operations completed successfully
+2024-09-28 08:27:53,102 - INFO - Program started
+2024-09-28 08:27:53,102 - INFO - All SQL operations completed successfully
+2024-09-28 08:30:48,850 - INFO - Program started
+2024-09-28 08:30:48,850 - INFO - All SQL operations completed successfully
+2024-09-28 08:31:25,650 - INFO - Program started
+2024-09-28 08:31:25,650 - INFO - All SQL operations completed successfully
+2024-09-28 08:31:45,734 - INFO - Program started
+2024-09-28 08:31:45,734 - INFO - All SQL operations completed successfully
+2024-09-28 08:32:35,382 - INFO - Program started
+2024-09-28 08:32:35,382 - INFO - All SQL operations completed successfully
+2024-09-28 08:33:04,783 - INFO - Program started
+2024-09-28 08:33:04,783 - INFO - All SQL operations completed successfully
+2024-09-28 08:34:28,470 - INFO - Program started
+2024-09-28 08:34:28,470 - INFO - All SQL operations completed successfully
+2024-09-28 08:34:51,940 - INFO - Program started
+2024-09-28 08:34:51,940 - INFO - All SQL operations completed successfully
+2024-09-28 08:41:20,351 - INFO - Program started
+2024-09-28 08:41:20,351 - INFO - All SQL operations completed successfully
+2024-09-28 08:42:46,647 - INFO - Program started
+2024-09-28 08:42:46,647 - INFO - All SQL operations completed successfully
+2024-09-28 08:43:04,610 - INFO - Program started
+2024-09-28 08:43:04,610 - INFO - All SQL operations completed successfully
+2024-09-28 08:44:04,241 - INFO - Program started
+2024-09-28 08:44:04,241 - INFO - All SQL operations completed successfully
+2024-09-28 08:44:04,279 - INFO - Program ended
+2024-09-28 08:45:33,411 - INFO - Program started
+2024-09-28 08:45:33,411 - INFO - All SQL operations completed successfully
+2024-09-28 08:46:49,506 - INFO - Program started
+2024-09-28 08:46:49,506 - INFO - All SQL operations completed successfully
+2024-09-28 08:47:35,403 - INFO - Program started
+2024-09-28 08:47:35,403 - INFO - All SQL operations completed successfully
+2024-09-28 08:48:20,717 - INFO - Program started
+2024-09-28 08:48:20,718 - INFO - All SQL operations completed successfully
+2024-09-28 08:48:47,378 - INFO - Program started
+2024-09-28 08:48:47,378 - INFO - All SQL operations completed successfully
+2024-09-28 08:52:11,568 - INFO - Program started
+2024-09-28 08:52:11,568 - INFO - All SQL operations completed successfully
+2024-09-28 08:52:11,630 - INFO - Program ended
+2024-09-28 08:53:48,361 - INFO - Program started
+2024-09-28 08:53:48,361 - INFO - All SQL operations completed successfully
+2024-09-28 08:53:48,412 - INFO - Program ended
+2024-09-28 08:55:19,908 - INFO - Program started
+2024-09-28 08:55:19,908 - INFO - All SQL operations completed successfully
+2024-09-28 08:55:41,432 - INFO - Program started
+2024-09-28 08:55:41,432 - INFO - All SQL operations completed successfully
+2024-09-28 08:57:01,924 - INFO - Program started
+2024-09-28 08:57:01,924 - INFO - All SQL operations completed successfully
+2024-09-28 08:57:11,031 - INFO - Program started
+2024-09-28 08:57:11,031 - INFO - All SQL operations completed successfully
+2024-09-28 08:57:11,083 - INFO - Program ended
+2024-09-28 08:58:16,250 - INFO - Program started
+2024-09-28 08:58:16,250 - INFO - All SQL operations completed successfully
+2024-09-28 08:58:32,779 - INFO - Program started
+2024-09-28 08:58:32,779 - INFO - All SQL operations completed successfully
+2024-09-28 08:58:32,830 - INFO - Program ended
+2024-09-28 09:00:53,022 - INFO - Program started
+2024-09-28 09:00:53,022 - INFO - All SQL operations completed successfully
+2024-09-28 09:00:53,074 - INFO - Program ended
+2024-09-28 09:00:59,078 - INFO - Program started
+2024-09-28 09:00:59,079 - INFO - All SQL operations completed successfully
+2024-09-28 09:00:59,145 - INFO - Program ended
+2024-09-28 09:01:05,291 - INFO - Program started
+2024-09-28 09:01:05,291 - INFO - All SQL operations completed successfully
+2024-09-28 09:01:26,894 - INFO - Program started
+2024-09-28 09:01:26,895 - INFO - All SQL operations completed successfully
+2024-09-28 09:01:26,966 - INFO - Program ended
+2024-09-28 09:01:33,741 - INFO - Program started
+2024-09-28 09:01:33,741 - INFO - All SQL operations completed successfully
+2024-09-28 09:01:33,812 - INFO - Program ended
+2024-09-28 09:01:41,331 - INFO - Program started
+2024-09-28 09:01:41,331 - INFO - All SQL operations completed successfully
+2024-09-28 09:01:41,383 - INFO - Program ended
+2024-09-28 09:01:47,731 - INFO - Program started
+2024-09-28 09:01:47,731 - INFO - All SQL operations completed successfully
+2024-09-28 09:03:02,578 - INFO - Program started
+2024-09-28 09:03:02,578 - INFO - All SQL operations completed successfully
+2024-09-28 09:03:08,822 - INFO - Program started
+2024-09-28 09:03:08,822 - INFO - All SQL operations completed successfully
+2024-09-28 09:03:08,887 - INFO - Program ended
+2024-09-28 09:08:21,027 - INFO - Program started
+2024-09-28 09:08:21,027 - INFO - All SQL operations completed successfully
+2024-09-28 09:08:21,081 - INFO - Program ended
+2024-09-28 09:08:25,831 - INFO - Program started
+2024-09-28 09:08:25,831 - INFO - All SQL operations completed successfully
+2024-09-28 09:08:25,894 - INFO - Program ended
+2024-09-28 09:19:07,204 - INFO - Program started
+2024-09-28 09:19:07,204 - INFO - All SQL operations completed successfully
+2024-09-28 09:19:07,264 - INFO - Program ended
+2024-09-28 09:28:19,876 - INFO - Program started
+2024-09-28 09:28:19,876 - INFO - All SQL operations completed successfully
+2024-09-28 09:28:20,029 - INFO - Program ended
+2024-09-28 09:30:09,691 - INFO - Program started
+2024-09-28 09:30:09,692 - INFO - All SQL operations completed successfully
+2024-09-28 09:30:09,693 - INFO - Database created successfully.
+2024-09-28 09:30:09,726 - INFO - Tables created successfully.
+2024-09-28 09:30:09,765 - INFO - Data inserted successfully.
+2024-09-28 09:30:09,771 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:30:09,781 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:30:09,783 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:30:09,784 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:30:09,785 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:30:09,786 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:30:09,788 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:30:09,788 - INFO - Program ended
+2024-09-28 09:36:35,127 - INFO - Program started
+2024-09-28 09:36:35,130 - INFO - Database created successfully.
+2024-09-28 09:36:35,175 - INFO - Data inserted successfully.
+2024-09-28 09:36:35,201 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 09:36:35,203 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:36:35,213 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:36:35,215 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:36:35,216 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:36:35,217 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:36:35,218 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:36:35,219 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:36:35,219 - INFO - All SQL operations completed successfully
+2024-09-28 09:36:35,219 - INFO - Program ended
+2024-09-28 09:37:59,317 - INFO - Program started
+2024-09-28 09:37:59,319 - INFO - Database created successfully.
+2024-09-28 09:37:59,370 - INFO - Data inserted successfully.
+2024-09-28 09:37:59,392 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 09:37:59,396 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:37:59,408 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:37:59,411 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:37:59,412 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:37:59,413 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:37:59,415 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:37:59,416 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:37:59,416 - INFO - All SQL operations completed successfully
+2024-09-28 09:37:59,416 - INFO - Program ended
+2024-09-28 09:39:39,109 - INFO - Program started
+2024-09-28 09:39:39,111 - INFO - Database created successfully.
+2024-09-28 09:39:39,171 - INFO - Data inserted successfully.
+2024-09-28 09:39:39,198 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 09:39:39,208 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:39:39,226 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:39:39,235 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:39:39,243 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:39:39,249 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:39:39,257 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:39:39,264 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:39:39,264 - INFO - All SQL operations completed successfully
+2024-09-28 09:39:39,264 - INFO - Program ended
+2024-09-28 09:48:25,287 - INFO - Program started
+2024-09-28 09:48:25,289 - INFO - Database created successfully.
+2024-09-28 09:48:25,341 - INFO - Data inserted successfully.
+2024-09-28 09:48:25,363 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 09:48:25,369 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:48:25,386 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:48:25,394 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:48:25,400 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:48:25,406 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:48:25,413 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:48:25,419 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:48:25,420 - INFO - All SQL operations completed successfully
+2024-09-28 09:48:25,420 - INFO - Program ended
+2024-09-28 09:48:38,738 - INFO - Program started
+2024-09-28 09:48:38,740 - INFO - Database created successfully.
+2024-09-28 09:48:38,789 - INFO - Data inserted successfully.
+2024-09-28 09:48:38,806 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 09:48:38,808 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:48:38,815 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:48:38,817 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:48:38,818 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:48:38,819 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:48:38,819 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:48:38,821 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:48:38,821 - INFO - All SQL operations completed successfully
+2024-09-28 09:48:38,821 - INFO - Program ended
+2024-09-28 09:56:44,669 - INFO - Program started
+2024-09-28 09:56:44,671 - INFO - Database created successfully.
+2024-09-28 09:56:44,708 - INFO - Data inserted successfully.
+2024-09-28 09:56:44,734 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 09:56:44,741 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:56:44,757 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:56:44,765 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:56:44,772 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:56:44,778 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:56:44,785 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:56:44,793 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:56:44,793 - INFO - All SQL operations completed successfully
+2024-09-28 09:56:44,793 - INFO - Program ended
+2024-09-28 09:59:57,858 - INFO - Program started
+2024-09-28 09:59:57,860 - INFO - Database created successfully.
+2024-09-28 09:59:57,890 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 09:59:57,931 - INFO - Data inserted successfully.
+2024-09-28 09:59:57,941 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 09:59:57,962 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 09:59:57,970 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 09:59:57,977 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 09:59:57,984 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 09:59:57,991 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 09:59:57,998 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 09:59:57,998 - INFO - All SQL operations completed successfully
+2024-09-28 09:59:57,998 - INFO - Program ended
+2024-09-28 19:10:47,028 - INFO - Program started
+2024-09-28 19:10:47,030 - INFO - Database created successfully.
+2024-09-28 19:10:47,049 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 19:10:47,080 - INFO - Data inserted successfully.
+2024-09-28 19:10:47,088 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 19:10:47,100 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 19:10:47,105 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 19:10:47,110 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 19:10:47,114 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 19:10:47,119 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 19:10:47,123 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 19:10:47,124 - INFO - All SQL operations completed successfully
+2024-09-28 19:10:47,124 - INFO - Program ended
+2024-09-28 19:10:52,039 - INFO - Program started
+2024-09-28 19:10:52,041 - INFO - Database created successfully.
+2024-09-28 19:10:52,052 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 19:10:52,073 - INFO - Data inserted successfully.
+2024-09-28 19:10:52,077 - INFO - Executed SQL from sql\delete_records.sql
+2024-09-28 19:10:52,084 - INFO - Executed SQL from sql\insert_records.sql
+2024-09-28 19:10:52,085 - INFO - Executed SQL from sql\query_aggregration.sql
+2024-09-28 19:10:52,086 - INFO - Executed SQL from sql\query_filter.sql
+2024-09-28 19:10:52,086 - INFO - Executed SQL from sql\query_group_by.sql
+2024-09-28 19:10:52,087 - INFO - Executed SQL from sql\query_sorting.sql
+2024-09-28 19:10:52,088 - INFO - Executed SQL from sql\query_join.sql
+2024-09-28 19:10:52,088 - INFO - All SQL operations completed successfully
+2024-09-28 19:10:52,089 - INFO - Program ended
