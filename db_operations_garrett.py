@@ -37,7 +37,7 @@ logging.basicConfig(filename='log.txt', level=logging.DEBUG, filemode='a', forma
 
 
 def main() -> None:
-    '''The main function calls all the functions created above, will create database, and query using sql.
+    '''The main function calls all sql queries in the sql folder.
     '''
 
 

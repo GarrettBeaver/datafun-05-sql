@@ -22,6 +22,22 @@ The "vehicles' table contains:
 
 Vehicles table has no foreign key.  Rental's foreign key is "Vehicle ID"
 
+## Workflow
+
+1. Run "db_initialize_garrett.py in order to create the tables described above.
+
+2. Run "db_operations_garrett.py to perform the following operations on that data base
+
+    - "delete_records.sql" deletes the vehicle with VehicleID = 1.
+    - "insert_records.sql" will insert 10 lines of information into each table.
+    - "query_aggregration.sql" gives average daily rental rate of all vehicles in the Vehicles table and the number of vehicles for each year.
+    - "query_filter.sql" filters vehicles by year 2020 and 2021.
+    - "query_groub_by.sql" will sum daily rate by year.
+    - "query_join.sql" join the two tables based on the shared key.
+    - "query_sorting.sql" will sorts vehicles by daily rates.
+
+
+
 ## Commonly used commands
 
 ### Pull Current project version from GitHub

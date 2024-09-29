@@ -302,3 +302,8 @@
 2024-09-28 19:33:58,022 - INFO - Executed SQL from sql\query_join.sql
 2024-09-28 19:33:58,022 - INFO - All SQL operations completed successfully
 2024-09-28 19:33:58,022 - INFO - Program ended
+2024-09-28 19:37:18,359 - INFO - Program started
+2024-09-28 19:37:18,361 - INFO - Database created successfully.
+2024-09-28 19:37:18,373 - INFO - Executed SQL from sql\create_tables.sql
+2024-09-28 19:37:18,397 - INFO - Data inserted successfully.
+2024-09-28 19:37:18,397 - INFO - Program ended

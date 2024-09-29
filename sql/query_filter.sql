@@ -1,4 +1,4 @@
--- use WHERE to filter data based on conditions.
+-- Filter by year
 SELECT VehicleID, Make, Model, Year
 FROM Vehicles
 WHERE Year = 2020 OR Year = 2021;

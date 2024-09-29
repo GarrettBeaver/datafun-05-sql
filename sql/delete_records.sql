@@ -1,3 +1,3 @@
--- delete 1 or more records from a table.
+-- delete vehicle id 1 from table
 DELETE FROM Vehicles
 WHERE VehicleID = 1;

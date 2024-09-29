@@ -1,3 +1,4 @@
+-- join tables on vehicleID
 SELECT Rentals.RentalID, 
        Vehicles.Make, 
        Vehicles.Model, 
